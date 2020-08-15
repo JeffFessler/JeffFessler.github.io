@@ -9,6 +9,5 @@ of the
 
 It's main purpose is to serve as a
 documentation repo
-for
-his
-[https://github.com/JeffFessler](code repos).
+for his
+[code repos](https://github.com/JeffFessler).
