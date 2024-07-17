@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=J5f4Gq8AAAAJ&hl=en&oi=ao).
+You can also find my articles on
+[Google Scholar](https://scholar.google.com/citations?user=J5f4Gq8AAAAJ).
   
 {% include base_path %}
 
@@ -23,5 +24,5 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <b>Conference</b>
 ======
 
-* <b>Rodrigo A. Lobos</b>, R. M. Leahy, Justin P. Haldar. <br>[Autoregression and Structured Low-Rank Modeling of Sinograms.](https://ieeexplore.ieee.org/document/9098484)<br><em>IEEE International Symposium on Biomedical Imaging, Iowa City, 2020, pp. 1437-1440.</em><br><b><font color="blue">Finalist for the IEEE ISBI 2020 Best Student Paper Award.</font></b>  
+* (Under construction)
 
