@@ -11,9 +11,9 @@ title                    : "Jeffrey A. Fessler"
 title_separator          : "-"
 name                     : &name "Jeffrey A. Fessler"
 description              : &description "personal description"
-url                      : https://jafessler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JeffFessler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jafessler.github.io"
+repository               : "JeffFessler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,10 +84,10 @@ author:
   avatar           : "jeff_profile.png"
   bio              : "William L. Root Collegiate Professor of EECS at University of Michigan <b>fessler@umich.edu </b>"
   location         : "Ann Arbor, MI"
-  employer         :
+  employer         : "University of Michigan"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J5f4Gq8AAAAJ&hl=en"
-  email            : #"rlobos@usc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=J5f4Gq8AAAAJ"
+  email            : "fessler@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/JeffFessler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jeff-fessler-578ab746"
+  orcid            : "https://orcid.org/0000-0001-9998-3315"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@jeffreyfessler"
   wikipedia        :
 
 
