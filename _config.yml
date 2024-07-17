@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jeffrey A. Fessler"
-  avatar           : "jeff_profile.png"
+  avatar           : "jf-2024-05-14_7-crop2.jpg"
   bio              : "William L. Root Collegiate Professor of EECS at University of Michigan <b>fessler@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
-  pubmed           :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Fessler+JA"
   googlescholar    : "https://scholar.google.com/citations?user=J5f4Gq8AAAAJ"
   email            : "fessler@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
